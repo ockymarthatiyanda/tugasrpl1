@@ -4,6 +4,7 @@
 	echo " 10114141 - Nadicky Luthfi Haridhi";
 	echo " 10114423 - Luthfi Waziirul F.";
 	echo " 10114129 - Dimas Praja Swardi"
+	//push bareng
 ?>
 
 
