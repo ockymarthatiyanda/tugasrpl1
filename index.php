@@ -3,4 +3,4 @@
 	//ISI DATA NIM - NAMA disini
 	//Bismillah
 
-?>
+
